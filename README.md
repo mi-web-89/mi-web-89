@@ -16,4 +16,4 @@ I'm **Muhammad ismail**, a frontend development enthusiast currently exploring t
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 
-✨ _"Keep learning, keep building, keep sharing."_  
+✨ _"Keep learning and keep building"_  
