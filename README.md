@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm **[Muhammad ismail]**, a frontend development enthusiast currently exploring the world of modern web technologies.  
+I'm **Muhammad ismail**, a frontend development enthusiast currently exploring the world of modern web technologies.  
 
 ## 🌱 About Me
 - 💻 Focused on **Frontend Development**  
 - 📚 Currently learning **React**, **Next.js**, **Typescript** and **Tailwind CSS**  
 - 🎨 Interested in building clean UI and smooth UX  
-- 🚀 Consistently improving skills & open to collaboration  
+- 🚀 Consistently improving skills
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
