@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Muhammad ismail**, a frontend development enthusiast currently exploring the world of modern web technologies.  
+I'm **Muhammad Ismail**, a frontend development enthusiast passionate about building modern web applications. Currently, I'm expanding my expertise in AI, focusing on prompt engineering, vibe coding, AI-assisted development, and developer productivity.
 
 ## 🌱 About Me
 - 💻 Focused on **Frontend Development**  
